@@ -1,0 +1,12 @@
+form{
+    text-align: center;
+    padding-bottom: 20px;
+}
+h2,p{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: normal;
+    text-align: center;
+}
+body{
+    background-color: orange;
+}
